@@ -10,8 +10,8 @@
 - ![Wiring Setup](https://github.com/anchirinaahhezekiah/Arduino-maze-puzzle-car/blob/main/Circuit%20Diagram/Circuit%20Diagram.jpg)
 
 ### 🎥 Videos
-- [Maze Solving Demo 1](media/maze-run-1.mp4)
-- [Maze Solving Demo 2](media/maze-run-2.mp4)
+- [Maze Solving Demo 1]([media/maze-run-1.mp4](https://github.com/anchirinaahhezekiah/Arduino-maze-puzzle-car/blob/main/Videos/WhatsApp%20Video%202025-04-09%20at%2016.04.08_eeecbd01.mp4))
+- [Maze Solving Demo 2]([media/maze-run-2.mp4](https://github.com/anchirinaahhezekiah/Arduino-maze-puzzle-car/blob/main/Videos/WhatsApp%20Video%202025-04-09%20at%2016.04.08_eeecbd01.mp4))
 
 > To play the videos directly, click the links above (they must be in a `media` folder in this repo).
 
