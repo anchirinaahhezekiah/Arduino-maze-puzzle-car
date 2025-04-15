@@ -7,7 +7,7 @@
 
 ### 🖼️ Images
 - ![Top View](https://github.com/anchirinaahhezekiah/Arduino-maze-puzzle-car/blob/main/Pictures/WhatsApp%20Image%202025-04-07%20at%2016.32.23_fc478563.jpg)
-- ![Wiring Setup](media/wiring.jpg)
+- ![Wiring Setup](https://github.com/anchirinaahhezekiah/Arduino-maze-puzzle-car/blob/main/Circuit%20Diagram/Circuit%20Diagram.jpg)
 
 ### 🎥 Videos
 - [Maze Solving Demo 1](media/maze-run-1.mp4)
