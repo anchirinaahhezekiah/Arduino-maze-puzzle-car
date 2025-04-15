@@ -6,8 +6,7 @@
 > 🔽 Click the links below to view pictures and videos of the project in action:
 
 ### 🖼️ Images
-- ![Car Design](https://github.com/anchirinaahhezekiah/Arduino-maze-puzzle-car/blob/main/Pictures/WhatsApp%20Image%202025-04-07%20at%2016.32.23_fc478563.jpg))
-- ![Top View](media/top-view.jpg)
+- ![Top View](https://github.com/anchirinaahhezekiah/Arduino-maze-puzzle-car/blob/main/Pictures/WhatsApp%20Image%202025-04-07%20at%2016.32.23_fc478563.jpg)
 - ![Wiring Setup](media/wiring.jpg)
 
 ### 🎥 Videos
